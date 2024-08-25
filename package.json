@@ -1,0 +1,16 @@
+{
+  "name": "canteen-app",
+  "version": "1.0.0",
+  "description": "A web application that allows to view day-to-day menu at canteens and pre-book food from anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "K Harshavardhan Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  }
+}
